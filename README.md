@@ -1,2 +1,4 @@
-# calculadora-imc
-Calcula seu IMC com altura e peso.
+# Calculadora de IMC
+Calcule seu IMC, clique aqui.
+
+Página feita com Javascript, HTML e CSS.
